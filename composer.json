@@ -1,5 +1,5 @@
 {
-  "name": "oneko/identity",
+  "name": "mpijierro/identity",
   "description": "Check identity number as NIF, CIF, NIE...",
   "type": "library",
   "license": "MIT",
